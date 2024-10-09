@@ -14,3 +14,14 @@ body{
     padding: 0;
 
 }
+.container {
+    height: "100vh";
+}
+
+
+.principal {
+     background-image: url("imagem/Background \ \(4\).png");
+     background-repeat: no-repeat;
+     background-size:  contain;
+
+}
